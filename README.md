@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Hanshika]!
+# 👋 Hi, I'm Hanshika!
 
 🎓 B.Tech CSE + Bio | 🧠 ML & Computer Vision Enthusiast  
 🎯 Graduating in 2026 | 📍 India  
