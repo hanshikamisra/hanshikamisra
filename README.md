@@ -3,7 +3,7 @@
 🎓 B.Tech CSE + Bio | 🧠 ML & Computer Vision Enthusiast  
 🎯 Graduating in 2026 | 📍 India  
 
----M
+---
 
 ## 🚀 About Me
 
