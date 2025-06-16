@@ -3,12 +3,12 @@
 🎓 B.Tech CSE + Bio | 🧠 ML & Computer Vision Enthusiast  
 🎯 Graduating in 2026 | 📍 India  
 
----
+---M
 
 ## 🚀 About Me
 
 - 🔭 Currently exploring: **Computer Vision**, **Generative AI**, and **ML applications**
-- 🧠 Learning DSA via **LeetCode (NeetCode 150)** & building foundational coding logic
+<!-- 🧠 Learning DSA via **LeetCode (NeetCode 150)** & building foundational coding logic-->
 - 💡 Passionate about solving real-world problems with AI/ML
 - 🔧 Exploring tools like **YOLOv8**, **Hugging Face**, and **Pygame** for applied learning
 
@@ -20,7 +20,7 @@
 `Python` `C++` (DSA)  
 
 **Libraries & Frameworks:**  
-`YOLOv8` `scikit-learn` `Pandas` `NumPy` `OpenCV`
+`YOLOv8` `scikit-learn` `Pandas` `NumPy` `OpenCV` `Tensorflow` `Pytorch`
 
 **In Progress / Exploring:**  
 `Hugging Face Inference API` `Pygame` `Git & GitHub`
@@ -48,10 +48,10 @@
 
 ---
 
-### 🧮 LeetCode Stats  
+<!--### 🧮 LeetCode Stats  
 [![LeetCode Stats](https://leetcard.jacoblin.cool/hanshika0710?theme=dark&font=Roboto&ext=contest)](https://leetcode.com/your-leetcode-username)
 
----
+-->
 
 ## 🔗 Connect with Me
 
