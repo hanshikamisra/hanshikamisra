@@ -27,7 +27,7 @@
 
 ---
 
-## 📌 Projects (So Far)
+## 📌 Projects (So Far and exploring)
 
 | Project | Description | Tech |
 |--------|-------------|------|
